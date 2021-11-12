@@ -1,4 +1,4 @@
-Kurbenetes : What is kurbenetes ?
+-----Kurbenetes : What is kurbenetes ?
 =================================
 Kurbenetes is a software that can deploy with many applications but with 1 config. Here's how simple the system is now monoservices, not monolith anymore where each installed / configured package is individual but still connected to other packages or applications. Simply put, when we create a server, we definitely need the name web-service and database. Now this is a type of monoservices which each works and is configured individually but still connected to each other.
 
@@ -34,9 +34,8 @@ sudo chmod +x kubectl
 mv kubectl /user/local/bin/kubectl
 ```
 
-Check Kubectl Version & Run Minikube :
+Check Kubectl Version & Run Minikube : 
 Run `minikube`
-
 ```console
 kurbenetes@alpacentauri:~$ minikube start
 * minikube v1.24.0 on Debian 10.2
