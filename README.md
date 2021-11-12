@@ -36,6 +36,7 @@ mv kubectl /user/local/bin/kubectl
 
 Check Kubectl Version & Run Minikube :
 Run `minikube`
+
 ```console
 kurbenetes@alpacentauri:~$ minikube start
 * minikube v1.24.0 on Debian 10.2
