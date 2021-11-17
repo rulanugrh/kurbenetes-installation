@@ -1,3 +1,4 @@
+echo "Author : Kiyotaka | Kyxzy"
 wget https://github.com/kubernetes/minikube/releases/download/v1.24.0/minikube-linux-amd64
 mv minikube-linux-amd64 minikube
 chmod +x minikube
